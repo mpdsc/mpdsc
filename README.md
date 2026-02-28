@@ -2,7 +2,7 @@
 I'm currently building and researching full stack data science systems that involves anomaly detection and AI reliability with emphasis in methods to reduce AI hallucinations.<br> 
 
 
-## 🌐 Socials:
+## 🌐 Check Out My Blog:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@modsc) 
 
 # 💻 Tech Stack:
@@ -10,6 +10,11 @@ I'm currently building and researching full stack data science systems that invo
 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mpdsc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mpdsc&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mpdsc&icon=0&color=0)](https://visitcount.itsvg.in)
