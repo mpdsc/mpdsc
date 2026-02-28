@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on full stack data science research that involves anomaly detection and reduced AI hallucinations.<br> 
+I'm currently building and researching full stack data science systems that involves anomaly detection and AI reliability with emphasis in methods to reduce AI hallucinations.<br> 
 
 
 ## 🌐 Socials:
