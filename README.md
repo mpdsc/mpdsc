@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Scientist completing studies at the University of Michigan with a Masters in Applied Data Science / AI concentration. I'm currently building and researching full stack data science systems focused on anomaly detection and AI reliability with emphasis in methods to reduce AI hallucinations.<br> 
+I am a Data Scientist completing studies at the University of Michigan with a Masters in Applied Data Science with and AI concentration. I'm currently building and researching full stack data science systems focused on anomaly detection and AI reliability with emphasis in methods to reduce AI hallucinations.<br> 
 
 
 ## 🌐 Check Out My Blog:
