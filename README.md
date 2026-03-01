@@ -19,4 +19,29 @@ I'm currently building and researching full stack data science systems that invo
 ---
 [![](https://visitcount.itsvg.in/api?id=mpdsc&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Projects
+- 
+- 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| 1        | <a href="LINK">Project</a>|
+| 2 | <a href="LINK">Project</a>|
+| 3         | Project|
+| 4      | Project|
+| 5                  | Project|
+| 6 | Project|
+
+
+## Certifications
+
+<div>
+  <img src="https://img.shields.io/badge/-Center for Automated Transportation-4D4D4D?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Center for Automated Transportation-FF0000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Center for Automated Transportation-007ACC?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Center for Automated Transportation-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
