@@ -24,10 +24,10 @@ I'm currently building and researching full stack data science systems focused o
 ## Certifications
 
 <div>
- <a href="https://ccat.umtri.umich.edu">CCAT Certification </a> 
-  <a href="https://ccat.umtri.umich.edu](https://www.coursera.org/specializations/cyber-security-data-privacy-ai-security">Cyber Security: Data, Privacy and AI Security Specialization </a>
-  <a href="https://ccat.umtri.umich.edu](https://www.coursera.org/specializations/cyber-security-essentials-for-forensics">Cyber Security: Essentials for Forensics Specialization </a>
-  <a href="https://ccat.umtri.umich.edu](https://www.coursera.org/professional-certificates/ibm-machine-learning">IBM Machine Learning Professional Certificate </a>
+ <a href="https://ccat.umtri.umich.edu">CCAT Certification </a> |
+  <a href="https://www.coursera.org/specializations/cyber-security-data-privacy-ai-security">Cyber Security: Data, Privacy and AI Security Specialization </a>|
+  <a href="https://www.coursera.org/specializations/cyber-security-essentials-for-forensics">Cyber Security: Essentials for Forensics Specialization </a>|
+  <a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">IBM Machine Learning Professional Certificate </a>
 
 </div>
 
