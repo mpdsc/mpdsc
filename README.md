@@ -1,15 +1,15 @@
 # 💫 About Me:
-I'm currently building and researching full stack data science systems focused on anomaly detection and AI reliability with emphasis in methods to reduce AI hallucinations.<br> 
+I am a Data Scientist completing studies at the University of Michigan with a Masters in Applied Data Science / AI concentration. I'm currently building and researching full stack data science systems focused on anomaly detection and AI reliability with emphasis in methods to reduce AI hallucinations.<br> 
 
 
 ## 🌐 Check Out My Blog:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@modsc) 
 
 ## Projects
-- Skyfie
-- Published Patent
+- <a href="https://www.nationalgeographic.com/science/article/look-up-together-skyfie-mobile-app">Skyfie </a>
+- <a href="https://patents.justia.com/inventor/megan-pouncy"> Published Patent </a>
 
-| Project Title                                         | Skills Demonstrated         |
+| Project Repository Title                                         | Skills Demonstrated         |
 |-----------------------------------------------|----------------------------|
 | Three to Care | low hallucination modeling, knowledge graph, anomaly detection|
 | Interview Prep Coach | multimodal AI, anamoly detection |
