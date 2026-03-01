@@ -20,20 +20,21 @@ I'm currently building and researching full stack data science systems that invo
 [![](https://visitcount.itsvg.in/api?id=mpdsc&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Projects
-- 
-- 
+- Skyfie
+- Published Patent
 
-| Skill                                         | Associated Project         |
+| Project Title                                         | Skills Demonstrated         |
 |-----------------------------------------------|----------------------------|
-| low hallucination modeling, knowledge graph, anomaly detection | Three to Care|
-| multimodal AI, anamoly detection | Interview Prep Coach 
-| threat modeling | <a href="LINK">Cyber Security threat modeling for vehicles </a>|
-| chain analysis, financial modeling, advanced EDA | DARFS Makes a Difference|
-| malware detection, unsupervised learning, supervised learning |<a href="LINK">Synthetic Threats</a>|
-| attack surface simulation, cyber threat analysis, anomaly detection, surface hardening, machine learning | CAN Bus Attack Simulation|
-| web crawler, prompt engineering, statistical analysis | Current Cyber Threat Landscape|
-| Machine Learning Pipeline | Learning Analytics|
-| extended EDA | Consumer Spend in Areas wtih High Rates of Functional Disability|
+| Three to Care | low hallucination modeling, knowledge graph, anomaly detection|
+| Interview Prep Coach | multimodal AI, anamoly detection |
+| <a href="LINK">Cyber Security threat modeling for vehicles </a> | threat modeling |
+| DARFS Makes a Difference|chain analysis, financial modeling, advanced EDA | 
+| <a href="LINK">Synthetic Threats</a>| malware detection, unsupervised learning, supervised learning |
+| CAN Bus Attack Simulation| attack surface simulation, cyber threat analysis, anomaly detection, surface hardening, machine learning | 
+| Current Cyber Threat Landscape| web crawler, prompt engineering, statistical analysis | 
+| Learning Analytics| Machine Learning Pipeline | 
+| Consumer Spend in Areas wtih High Rates of Functional Disability| extended EDA | 
+
 
 
 ## Certifications
