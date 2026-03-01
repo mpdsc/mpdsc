@@ -25,12 +25,15 @@ I'm currently building and researching full stack data science systems that invo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 1        | <a href="LINK">Project</a>|
-| 2 | <a href="LINK">Project</a>|
-| 3         | Project|
-| 4      | Project|
-| 5                  | Project|
-| 6 | Project|
+| low hallucination modeling, knowledge graph, anomaly detection | Three to Care|
+| multimodal AI, anamoly detection | Interview Prep Coach 
+| threat modeling | <a href="LINK">Cyber Security threat modeling for vehicles </a>|
+| chain analysis, financial modeling, advanced EDA | DARFS Makes a Difference|
+| malware detection, unsupervised learning, supervised learning |<a href="LINK">Synthetic Threats</a>|
+| attack surface simulation, cyber threat analysis, anomaly detection, surface hardening, machine learning | CAN Bus Attack Simulation|
+| web crawler, prompt engineering, statistical analysis | Current Cyber Threat Landscape|
+| Machine Learning Pipeline | Learning Analytics|
+| extended EDA | Consumer Spend in Areas wtih High Rates of Functional Disability|
 
 
 ## Certifications
